@@ -165,7 +165,10 @@ button:focus {
 
 .main_title p {
   margin-bottom: 0px;
-  font-size: 18px;
+}
+
+.about_p p {
+    font-size: 18px;
 }
 
 @media (max-width: 991px) {
