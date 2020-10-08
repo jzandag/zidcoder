@@ -1688,6 +1688,7 @@ button:focus {
 .contact_info .info_item {
   position: relative;
   padding-left: 45px;
+
 }
 
 .contact_info .info_item i {
@@ -3958,7 +3959,8 @@ h6 {
 }
 
 .contact_area {
-  padding: 100px;
+  padding-top: 100px ;
+  padding-left: 20px;
 }
 
 .modal-backdrop {
@@ -4096,7 +4098,7 @@ h6 {
   }
   .header_area.navbar_fixed .main_menu .navbar .nav .nav-item .nav-link {
     line-height: 40px;
-    color: #fff;
+    color: #00373a;
   }
   .header_area.white_menu.navbar_fixed .main_menu .navbar .nav .nav-item .nav-link {
     line-height: 40px;
